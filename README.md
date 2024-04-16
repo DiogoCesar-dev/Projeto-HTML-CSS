@@ -6,7 +6,7 @@ Este é um projeto de um Portfolio Web desenvolvido com HTML e CSS. Ele foi cria
 
 ## Conteúdo
 
-1. [Página Portfólio](./pagina.png)
+1. ![Página Portfólio](./pagina.png)
 
 
 ## Instruções de Uso
