@@ -4,9 +4,10 @@
 
 Este é um projeto de um Portfolio Web desenvolvido com HTML e CSS. Ele foi criado como parte do Curso Sujeito Programador, onde foram abordados conceitos e técnicas de desenvolvimento web utilizando essas tecnologias.
 
-## Pré-requisitos
+## Conteúdo
 
-Para visualizar o projeto em seu navegador localmente, você precisará de um navegador web moderno, como Google Chrome, Mozilla Firefox, Safari, ou Microsoft Edge.
+1. [Página Portfólio](./pagina.png)
+
 
 ## Instruções de Uso
 
